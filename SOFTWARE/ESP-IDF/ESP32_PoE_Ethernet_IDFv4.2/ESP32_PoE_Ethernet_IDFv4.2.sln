@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{803FD0C6-D64E-4E16-9DC3-1DAEC859A3D2}") = "ESP32_PoE_Ethernet_IDFv4.2", "ESP32_PoE_Ethernet_IDFv4.2.vgdbproj", "{234EC1A9-03DF-40C7-A91E-8660C04C5E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+		Tests (Debug)|VisualGDB = Tests (Debug)|VisualGDB
+		Tests (Release)|VisualGDB = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Release|VisualGDB.Build.0 = Release|VisualGDB
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Tests (Debug)|VisualGDB.ActiveCfg = Tests (Debug)|VisualGDB
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Tests (Debug)|VisualGDB.Build.0 = Tests (Debug)|VisualGDB
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Tests (Release)|VisualGDB.ActiveCfg = Tests (Release)|VisualGDB
+		{234EC1A9-03DF-40C7-A91E-8660C04C5E01}.Tests (Release)|VisualGDB.Build.0 = Tests (Release)|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EA28662-1CEF-4280-949C-5F24FACA3BA0}
+	EndGlobalSection
+EndGlobal
