@@ -1,0 +1,426 @@
+Importer Log Report
+Document: C:\Work\Medexa\ESP32-POE\HARDWARE\ESP32-PoE-hardware-revision-G1\ESP32-PoE_Rev_G1.sch
+    Section : Import Document - C:\Work\Medexa\ESP32-POE\HARDWARE\ESP32-PoE-hardware-revision-G1\Imported ESP32-PoE_Rev_G1\ESP32-PoE_Rev_G1.sch.SchDoc
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+5V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:SY8009AAAC(SOT23-5) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:L can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:SIDE_WTCM-TR(3x4) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:BH10S can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:D_Schottky can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:LED can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:LED can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:P-MOS+DIOD can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:BAT_CON can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:LAN8710A-EZC(QFN32) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:D_Schottky_Small can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+5V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:L can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:USB-MINI can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:P-MOS+DIOD can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:D_Schottky can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Q_NPN_BEC can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Q_NPN_BEC can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:SIDE_WTCM-TR(3x4) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:ESP-WROOM-32 can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:BAT54C(SOT23-3) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RJP-003TC1(LPJ4112CNL) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:L can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:CP can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:D_Schottky_Small can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:MICRO_SD(TFC-9P-1.xH(ATFFS150A01BR016)) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Fiducial can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Fiducial can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Fiducial can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+5VP can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+5VP can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:L can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:P-MOS+DIOD can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:LMUN2211LT1G(SOT-23) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3VLAN can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3VLAN can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3VLAN can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3VLAN can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3VLAN can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3VLAN can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:RA1206_(4x0603)_4B8_Smashed can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:CON10 can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:CON10 can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Crystal_GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Fiducial can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Fiducial can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:Fiducial can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:LED can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:LED can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:BL4054B-42TPRN(SOT23-5) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+5V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:CH340T(SSOP20W) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:D_Schottky_Small can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:D_Schottky_Small can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:PWR_FLAG can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:+3.3V can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:L can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:SJ can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:ESDS314DBVR(SOT-23-5) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GG0402052R542P can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GG0402052R542P can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:SMBJ6.0A can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:TX4138(ESOIC-8) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:TPS2375PW(TSSOP-8) can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:CP can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:D_Schottky_Small can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:C can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:R can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+        Error: Symbol ESP32-PoE_Rev_G1:GND can't be found in library cache.
+        Warning: Cannot import component: KiCadLib.SCH.SchCmpInstance
+    EndSection

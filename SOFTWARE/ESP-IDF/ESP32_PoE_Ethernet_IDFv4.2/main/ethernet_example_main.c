@@ -82,9 +82,15 @@ void app_main(void)
     eth_phy_config_t phy_config = ETH_PHY_DEFAULT_CONFIG();
     phy_config.phy_addr = CONFIG_EXAMPLE_ETH_PHY_ADDR;
     phy_config.reset_gpio_num = CONFIG_EXAMPLE_ETH_PHY_RST_GPIO;
+
+	/*  
+	 *  JP: Removed the use of GPIO12 aka. PIN_PHY_POWER
+	 *  Requires modified ESP32-POE-ISO or Ethernet stops working!
+	 *  
     gpio_pad_select_gpio(PIN_PHY_POWER);
     gpio_set_direction(PIN_PHY_POWER,GPIO_MODE_OUTPUT);
     gpio_set_level(PIN_PHY_POWER, 1);
+*/
     vTaskDelay(pdMS_TO_TICKS(10));										
 #if CONFIG_EXAMPLE_USE_INTERNAL_ETHERNET
     mac_config.smi_mdc_gpio_num = CONFIG_EXAMPLE_ETH_MDC_GPIO;
